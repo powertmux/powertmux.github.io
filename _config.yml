@@ -1,0 +1,5 @@
+# Site settings
+title: powertmux
+
+# Build settings
+markdown: kramdown
